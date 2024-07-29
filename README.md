@@ -6,7 +6,7 @@ This project provides a detailed walkthrough for creating a full data engineerin
 
 ## System Architecture
 
-![System Architecture]()
+![System Architecture](ProjectArchitecture.png)
 
 The system architecture comprises the following elements:
 
